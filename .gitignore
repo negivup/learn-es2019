@@ -21,7 +21,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-
-# 版本锁定文件
-yarn.lock
-package-lock.json
